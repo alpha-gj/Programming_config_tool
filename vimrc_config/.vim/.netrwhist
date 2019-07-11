@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/gj/repo_arasens/yocto/lk/target/mdm9607'
+let g:netrw_dirhist_2='/home/gj/repo_arasens/yocto/kernel/scripts'
+let g:netrw_dirhist_3='/home/gj/repo_arasens/yocto/meta-swi/meta-swi-mdm9x15/recipes-bsp/lk'
+let g:netrw_dirhist_4='/home/gj/git/MG51-AWSIoT/samples/linux'
+let g:netrw_dirhist_5='/home/gj/git/C_Linux_Programming_Practice/c/example'
+let g:netrw_dirhist_6='/home/gj/git/C_Linux_Programming_Practice/c'
+let g:netrw_dirhist_7='/home/gj/git/C_Linux_Programming_Practice/c/example'

@@ -1,0 +1,29 @@
+" 自動縮進
+set autoindent
+set cindent
+
+" 自動換行
+
+set wrap
+
+" 整詞換行
+
+set linebreak
+
+" Tab鍵的寬度
+
+set tabstop=4
+
+" 統一縮進為4
+
+set softtabstop=4
+
+set shiftwidth=4
+
+" 不要用空格代替製表符
+
+""set expandtab
+
+set smarttab
+
+"au BufReadPost * if line("'\"") > 0|if line("'\"") <= line("$")|exe("norm '\"")|else|exe "norm $"|endif|endif""""'")"")""'")""'")

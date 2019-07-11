@@ -1,0 +1,4 @@
+ab m make
+ab mi make install
+ab mmi make; make install
+ab mc make clean

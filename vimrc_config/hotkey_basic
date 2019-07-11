@@ -1,0 +1,15 @@
+" close file
+nmap <F4> :q<cr>
+
+" cancel highlight color
+nnoremap <silent> <C-l> :nohl<CR><C-L>
+
+" comment, uncommet
+map <C-C> :s:^:\/\/<CR> <ESC> <C-L>
+map <C-X> :s:^\/\/<CR>
+
+" pastetoggle,  enable/disable paste mode for paste from xclip
+set pastetoggle=<F2>
+
+" paste from reg "0
+inoremap <F3> "0p
